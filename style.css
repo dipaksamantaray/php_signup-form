@@ -1,0 +1,68 @@
+body {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.content {
+  margin-top: 9%;
+}
+
+.content .main-content {
+  margin-left: -210px;
+}
+.content .main-content .btn1 {
+  background-color: rgb(247, 44, 8);
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 3px;
+}
+.content .main-content .btn2 {
+  background-color: rgb(83, 57, 228);
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 3px;
+}
+
+.content .main-content .social {
+  margin-left: -230px;
+  color: white;
+}
+
+h2 {
+  width: 30%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  margin-left: 35%;
+  margin-top: 29px;
+}
+
+h2 span {
+  background: gray;
+  padding: 0 10px;
+}
+
+input {
+  margin-top: 15px;
+  height: 25px;
+  width: 20%;
+}
+.submit {
+  background-color: rgb(39, 74, 228);
+  color: white;
+  border-radius: 3px;
+  font-size: 15px;
+  border: none;
+}
+.center .fa-solid {
+  background-color: rgb(218, 211, 211);
+  font-size: 13px;
+  height: 21px;
+  width: 30px;
+  padding-top: 8px;
+}
